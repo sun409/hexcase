@@ -1,0 +1,3 @@
+# if ULONG_MAX > 0xffffffffUL
+#define IRONGATE_BIAS 0x80000000000UL
+
